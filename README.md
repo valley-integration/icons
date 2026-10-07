@@ -8,7 +8,7 @@ Staff-facing helper in Google Chat.
 
 ### Current: slim, no cheeks
 
-The drop at 90% width, without the rosy cheeks, in `widget/slim/`. **This is the one in use.**
+The drop at 90% width, eyes closer together, without the rosy cheeks, in `widget/slim/`. **This is the one in use.**
 
 ![Widget, slim](widget/slim/preview-slim.png)
 

@@ -20,8 +20,8 @@
     <path d="M0 -176 C 4 -214, 52 -220, 56 -192 C 59 -172, 34 -166, 30 -182" fill="none" stroke="url(#drop)" stroke-width="14" stroke-linecap="round"/>
     <path d="M0 -170 C 41.4 -112, 113.4 -40, 113.4 46 A113.4 126 0 0 1 -113.4 46 C -113.4 -40, -41.4 -112, 0 -170 Z" fill="url(#drop)"/><path d="M0 -170 C 41.4 -112, 113.4 -40, 113.4 46 A113.4 126 0 0 1 -113.4 46 C -113.4 -40, -41.4 -112, 0 -170 Z" fill="url(#shine)"/>
     <ellipse cx="-55.800000000000004" cy="-18" rx="18" ry="40" fill="#fff" opacity="0.45" transform="rotate(-18 -55.800000000000004 -18)"/>
-    <g fill="#083344"><ellipse cx="-42" cy="40" rx="17" ry="22"/><ellipse cx="42" cy="40" rx="17" ry="22"/></g>
-    <g fill="#fff"><circle cx="-36" cy="32" r="6"/><circle cx="48" cy="32" r="6"/></g>
+    <g fill="#083344"><ellipse cx="-33" cy="40" rx="17" ry="22"/><ellipse cx="33" cy="40" rx="17" ry="22"/></g>
+    <g fill="#fff"><circle cx="-27" cy="32" r="6"/><circle cx="39" cy="32" r="6"/></g>
     <path d="M-28 84 Q0 106 28 84" fill="none" stroke="#083344" stroke-width="10" stroke-linecap="round"/>
     </g>
   </g>
