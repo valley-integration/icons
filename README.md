@@ -6,6 +6,21 @@ Avatars and icons for Valley's AI helpers.
 
 Staff-facing helper in Google Chat.
 
+### Current: slim, no cheeks
+
+The drop at 90% width, without the rosy cheeks, in `widget/slim/`. **This is the one in use.**
+
+![Widget, slim](widget/slim/preview-slim.png)
+
+| File | Use |
+|---|---|
+| `widget/slim/widget-slim-1024.png`, `widget/slim/widget-slim-512.png` | Square, for the Google Chat app avatar (Chat crops it to a circle) |
+| `widget/slim/widget-slim-circle-1024.png` | Pre-cut circle, transparent corners |
+| `widget/slim/widget-slim-rounded-1024.png` | Rounded app-icon tile |
+| `widget/slim/widget-slim.svg`, `widget/slim/widget-slim-rounded.svg` | Vector sources |
+
+### Original (full width, with cheeks)
+
 ![Widget](widget/preview.png)
 
 | File | Use |
